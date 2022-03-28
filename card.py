@@ -1,8 +1,8 @@
 import requests
 import random
-
+os.system("figlet MRX CVV")
 tok = input('tokin : ')
-ID = input('id')
+ID = input('id : ')
 i =int('1000')
 for i in range(i):
  user = '1234567890'
