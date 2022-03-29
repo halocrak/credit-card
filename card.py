@@ -1,5 +1,6 @@
 import requests
 import random
+import os
 os.system("figlet MRX CVV")
 tok = input('tokin : ')
 ID = input('id : ')
